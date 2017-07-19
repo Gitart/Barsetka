@@ -112,6 +112,7 @@
 
 ## Money
 Деньги
+
 |Field|Nype|Description
 |----|----|----
 |**Id**|Id|Уникальное ид поле

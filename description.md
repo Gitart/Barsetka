@@ -108,3 +108,26 @@
 |**Idu**|String|Пользователь 
 |**Tab**|String|Таблица в которой сделано изменения
 |**Err**|String|Описание ошибки если было
+
+
+## Money
+Деньги
+|Field|Nype|Description
+|----|----|----
+|**Id**|Id|Уникальное ид поле
+|**Title**|String|Название
+|**Descript**|String|Описание
+|**Summ**|Number|Сумма
+|**Status**|String|Статус
+|**Vid**|String|Тип (Нал, карточка)
+|**Type**|String|Дебет кредит
+|**Flag**|String|Активный Архивный Блокированный Удаленный 
+|**Crated**|String|Дата время создания записи
+|**Idu**|GUID|Ид пользователя
+
+## Library 
+|Function|Type|Description
+|----|----|----
+|**GUID**|G|GUID
+|**ID**|String|Цифровой и буквенный код
+

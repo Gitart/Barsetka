@@ -37,10 +37,17 @@ Quickly create a rich document.
 * Type - Тип 
 * Email - Почта 
 * Phone - Телефон
-* Relation - Сссілка на другие списки
+* Relation - Ссылка на другие списки
 * CreatedBy - Кем создано
-* Publisher - Дата публикации - для доступа из вне 
+* Publisher - Дата публикации - для доступа из вне
+* Favorite - добавить список на головную панель 
+* Reating - рейтинг  
 
+
+## Comments
+Коментарии для связки со списком 
+
+## Logs
 
 
 

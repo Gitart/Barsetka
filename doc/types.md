@@ -34,6 +34,8 @@ Notion Tip: Use this as the homepage for your... uh, home :) When you live with 
 # Simple Budget
 Notion Tip: Keep track of your expenses and how they compare to a monthly cap. Click All Expenses to view this data different ways using filters — like August expenses only, or home expenses only.
 
+# Class directory
+Put names to faces. Use this directory to track class participation, absences, and take any other notes that will be helpful when it comes time to calculate final grades or give feedback to students.
 
 # Yarly Goals
 
@@ -78,6 +80,8 @@ Quickly create a rich document.
 * Publisher - Дата публикации - для доступа из вне
 * Favorite - добавить список на головную панель 
 * Reating - рейтинг  
+* Section - Ceкция 
+* 
 
 
 ## Comments

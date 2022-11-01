@@ -22,8 +22,35 @@ Quickly create a rich document.
 
 
 # Basic structure
-* Created
+* Title
+* Subtitle 
+* Description
+* CreatedAt
+* UpdateAt
+* DeleteAt
 * Tags 
 * Comments 
-* Status 
+* Status [Not Started, In Progress, Done]
+* Author 
+* Link 
+* Summary
+* Type
+* Email
+* Phone 
+* Relation 
+* CreatedBy
 * 
+
+
+
+
+
+
+
+
+
+
+
+
+
+

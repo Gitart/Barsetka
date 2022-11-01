@@ -22,24 +22,24 @@ Quickly create a rich document.
 
 
 # Basic structure
-* Title
-* Subtitle 
-* Description
-* CreatedAt
-* UpdateAt
-* DeleteAt
-* Tags 
-* Comments 
+* Title - Наименование
+* Subtitle  - Полное описание  листа
+* Description - Краткое опсиание листа
+* CreatedAt - Дата создания
+* UpdateAt - Дата обновления
+* DeleteAt - Дата создания 
+* Tags  - Теги для поиска
+* Comments - Комментарий
 * Status [Not Started, In Progress, Done]
-* Author 
-* Link 
-* Summary
-* Type
-* Email
-* Phone 
-* Relation 
-* CreatedBy
-* 
+* Author - Автор 
+* Link - Линк 
+* Summary - Описание 
+* Type - Тип 
+* Email - Почта 
+* Phone - Телефон
+* Relation - Сссілка на другие списки
+* CreatedBy - Кем создано
+* Publisher - Дата публикации - для доступа из вне 
 
 
 

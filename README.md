@@ -1,5 +1,7 @@
 # BARSETKA
 
+![image](https://user-images.githubusercontent.com/3950155/217057137-f0e5db3e-2718-4f11-80ee-7e099020400c.png)
+
 Barsetka automatization project private for you deal.      
 Daily task always on the hands.     
 You  find task and other information for work and private control.      
